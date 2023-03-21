@@ -67,7 +67,7 @@ def preprocessing(results):
     # 馬体重を体重と体重変化に分ける
     df["体重"] = df["馬体重"].str.split("(", expand=True)[0].astype(int)
     df["体重変化"] = df["馬体重"].str.split("(", expand=True)[1].str[:-1].astype(int)
-
+    
     # データをint, floatに変換
     df["単勝"] = df["単勝"].astype(float)
 
@@ -201,11 +201,11 @@ roc_y_test = convert_binary(y_test.values.tolist(), 1)
 
 fpr, tpr, thresholds = roc_curve(roc_y_test, y_pred.tolist())
 
-# plt.plot(fpr, tpr, marker="o")
-# plt.xlabel("False positive rate")
-# plt.ylabel("True positive rate")
-# plt.grid()
-# plt.show()
+plt.plot(fpr, tpr, marker="o")
+plt.xlabel("False positive rate")
+plt.ylabel("True positive rate")
+plt.grid()
+plt.show()
 
 # AUCスコアの表示（1～0.5の間で動く、制度が高ければ1、低ければ0.5）
 roc_auc_score(roc_y_test, y_pred)
@@ -243,8 +243,6 @@ importances = pd.DataFrame(
     {"features": X_train.columns, "importance": rf.feature_importances_}
 )
 importances.sort_values("importance", ascending=False)[:20]
-
-# ここから
 
 # LightGBMによる予測モデル作成
 import lightgbm as lgb
