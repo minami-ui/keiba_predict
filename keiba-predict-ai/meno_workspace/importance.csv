@@ -1,0 +1,816 @@
+,features,importance
+4,単勝,2293
+7,体重,2064
+3,上り,1904
+9,race_id_y,1733
+1,馬番,971
+10,course_len,948
+8,体重変化,889
+0,枠番,763
+5,人気,721
+2,斤量,439
+6,年齢,314
+86,race_name_3歳未勝利,278
+806,weather_曇,183
+76,性_牝,157
+809,race_type_ダート,140
+46,騎手_横山武史,125
+805,weather_晴,125
+807,weather_雨,121
+77,性_牡,116
+80,race_name_2歳新馬,105
+82,race_name_3歳1勝クラス,103
+23,騎手_団野大成,95
+50,騎手_池添謙一,91
+47,騎手_武豊,91
+801,rotation_右,90
+88,race_name_4歳以上2勝クラス,88
+812,ground_state_稍重,88
+813,ground_state_良,85
+26,騎手_坂井瑠星,83
+83,race_name_3歳以上1勝クラス,81
+814,ground_state_重,77
+63,騎手_菱田裕二,74
+21,騎手_吉田隼人,68
+811,ground_state_不良,63
+45,騎手_横山和生,60
+810,race_type_芝,57
+87,race_name_4歳以上1勝クラス,57
+66,騎手_藤岡佑介,56
+29,騎手_大野拓弥,51
+75,性_セ,44
+14,騎手_亀田温心,37
+11,騎手_ルメール,35
+802,rotation_左,20
+13,騎手_丹内祐次,17
+556,race_name_福寿草特別 ,0
+555,race_name_神鍋特別 ,0
+554,race_name_神無月ステークス ,0
+31,騎手_山田敬士,0
+553,race_name_神奈川新聞杯 ,0
+557,race_name_福島2歳ステークス ,0
+551,race_name_磐梯山特別 ,0
+550,race_name_石狩特別 ,0
+552,race_name_礼文特別 ,0
+563,race_name_秋嶺ステークス ,0
+558,race_name_福島テレビオープン ,0
+559,race_name_福島中央テレビ杯 ,0
+560,race_name_福島放送賞 ,0
+561,race_name_福島民友カップ(L),0
+562,race_name_福島民報杯(L),0
+564,race_name_秋明菊賞 ,0
+565,race_name_秋色ステークス ,0
+566,race_name_秩父特別 ,0
+567,race_name_稲荷特別 ,0
+568,race_name_積丹特別 ,0
+549,race_name_石和特別 ,0
+545,race_name_相馬特別 ,0
+548,race_name_知立特別 ,0
+535,race_name_白富士ステークス(L),0
+525,race_name_犬山特別 ,0
+526,race_name_猪名川特別 ,0
+527,race_name_猪苗代特別 ,0
+528,race_name_玄海特別 ,0
+529,race_name_生田特別 ,0
+530,race_name_由比ヶ浜特別 ,0
+531,race_name_甲南ステークス ,0
+532,race_name_甲斐路ステークス ,0
+533,race_name_町田特別 ,0
+534,race_name_白井特別 ,0
+536,race_name_白嶺ステークス ,0
+547,race_name_知床特別 ,0
+537,race_name_白川郷ステークス ,0
+538,race_name_白梅賞 ,0
+539,race_name_白河特別 ,0
+540,race_name_白秋ステークス ,0
+541,race_name_百日草特別 ,0
+542,race_name_皆生特別 ,0
+543,race_name_皿倉山特別 ,0
+544,race_name_相模湖特別 ,0
+570,race_name_立川特別 ,0
+546,race_name_知多特別 ,0
+569,race_name_立夏ステークス ,0
+576,race_name_第134回目黒記念(G2),0
+571,race_name_立待岬特別 ,0
+606,race_name_第37回フェブラリーS(G1),0
+597,race_name_第27回テレビ東京杯青葉賞(G2),0
+598,race_name_第27回マーチステークス(G3),0
+599,race_name_第27回函館スプリントS(G3),0
+600,race_name_第27回平安ステークス(G3),0
+601,race_name_第34回フラワーカップ(G3),0
+602,race_name_第34回中スポ賞ファルコンS(G3),0
+603,race_name_第34回根岸ステークス(G3),0
+604,race_name_第34回産経賞セントウルS(G2),0
+605,race_name_第37回エプソムカップ(G3),0
+607,race_name_第37回ホープフルステークス(G1),0
+595,race_name_第25回東京中日S杯武蔵野S(G3),0
+608,race_name_第37回東海テレビ杯東海S(G2),0
+609,race_name_第38回中山牝馬ステークス(G3),0
+610,race_name_第38回関西TVローズS(G2),0
+611,race_name_第3回葵ステークス(G),0
+612,race_name_第40回ジャパンカップ(G1),0
+613,race_name_第40回小倉2歳ステークス(G3),0
+614,race_name_第45回エリザベス女王杯(G1),0
+615,race_name_第50回高松宮記念(G1),0
+616,race_name_第52回函館2歳ステークス(G3),0
+596,race_name_第25回秋華賞(G1),0
+594,race_name_第25回東京スポーツ杯2歳S(G3),0
+572,race_name_端午ステークス ,0
+582,race_name_第17回福島牝馬ステークス(G3),0
+573,race_name_竹田城ステークス ,0
+574,race_name_第10回みやこステークス(G3),0
+575,race_name_第12回レパードステークス(G3),0
+523,race_name_燕特別 ,0
+577,race_name_第13回カペラステークス(G3),0
+578,race_name_第15回キーンランドカップ(G3),0
+579,race_name_第15回ヴィクトリアマイル(G1),0
+580,race_name_第15回阪神カップ(G2),0
+581,race_name_第162回天皇賞(秋)(G1),0
+583,race_name_第21回チャンピオンズカップ(G1),0
+593,race_name_第25回ユニコーンステークス(G3),0
+584,race_name_第23回富士ステークス(G2),0
+585,race_name_第24回シリウスステークス(G3),0
+586,race_name_第25回KBSファンタジーS(G3),0
+587,race_name_第25回NHKマイルカップ(G1),0
+588,race_name_第25回アンタレスステークス(G3),0
+589,race_name_第25回エルムステークス(G3),0
+590,race_name_第25回シルクロードS(G3),0
+591,race_name_第25回プロキオンステークス(G3),0
+592,race_name_第25回マーメイドステークス(G3),0
+524,race_name_燧ヶ岳特別 ,0
+516,race_name_瀬戸内海特別 ,0
+522,race_name_熱田特別 ,0
+462,race_name_木古内特別 ,0
+453,race_name_明石特別 ,0
+454,race_name_春光ステークス ,0
+455,race_name_春菜賞 ,0
+456,race_name_春風ステークス ,0
+457,race_name_是政特別 ,0
+458,race_name_晩春ステークス ,0
+459,race_name_晩秋ステークス ,0
+460,race_name_有松特別 ,0
+461,race_name_朝日岳特別 ,0
+463,race_name_木曽川特別 ,0
+451,race_name_昇仙峡特別 ,0
+464,race_name_本栖湖特別 ,0
+465,race_name_札幌スポニチ賞 ,0
+466,race_name_札幌日刊スポーツ杯 ,0
+467,race_name_札幌日経オープン(L),0
+468,race_name_札幌道新スポーツ賞 ,0
+469,race_name_朱雀ステークス ,0
+470,race_name_朱鷺ステークス(L),0
+471,race_name_東大路ステークス ,0
+472,race_name_東村山特別 ,0
+452,race_name_昇竜ステークス ,0
+450,race_name_早鞆特別 ,0
+474,race_name_松島特別 ,0
+438,race_name_支笏湖特別 ,0
+429,race_name_戎橋特別 ,0
+430,race_name_成田特別 ,0
+431,race_name_手稲山特別 ,0
+432,race_name_招福ステークス ,0
+433,race_name_摂津特別 ,0
+434,race_name_摩周湖特別 ,0
+435,race_name_摩耶ステークス ,0
+436,race_name_播州ステークス ,0
+437,race_name_播磨ステークス ,0
+439,race_name_新潟日報賞 ,0
+449,race_name_早春ステークス ,0
+440,race_name_新潟牝馬ステークス ,0
+441,race_name_新発田城特別 ,0
+442,race_name_新緑賞 ,0
+443,race_name_日吉特別 ,0
+444,race_name_日本海ステークス ,0
+445,race_name_日田特別 ,0
+446,race_name_日進特別 ,0
+447,race_name_日野特別 ,0
+448,race_name_日高ステークス ,0
+473,race_name_松前特別 ,0
+475,race_name_松戸特別 ,0
+521,race_name_熊野特別 ,0
+510,race_name_渡島特別 ,0
+501,race_name_洲本特別 ,0
+502,race_name_浜名湖特別 ,0
+503,race_name_浜松ステークス ,0
+504,race_name_浦佐特別 ,0
+505,race_name_浦安特別 ,0
+506,race_name_海の中道特別 ,0
+507,race_name_淀短距離ステークス(L),0
+508,race_name_清津峡ステークス ,0
+509,race_name_清里特別 ,0
+511,race_name_湘南ステークス ,0
+499,race_name_洞爺湖特別 ,0
+512,race_name_湯の川温泉特別 ,0
+513,race_name_湯浜特別 ,0
+514,race_name_潮来特別 ,0
+515,race_name_潮騒特別 ,0
+618,race_name_第54回共同通信杯(G3),0
+517,race_name_瀬戸特別 ,0
+518,race_name_瀬波温泉特別 ,0
+519,race_name_灘ステークス ,0
+520,race_name_火打山特別 ,0
+500,race_name_津軽海峡特別 ,0
+498,race_name_河口湖特別 ,0
+476,race_name_柳都ステークス ,0
+486,race_name_梅田ステークス ,0
+477,race_name_栄特別 ,0
+478,race_name_栗東ステークス(L),0
+479,race_name_栞ステークス ,0
+480,race_name_桂川ステークス ,0
+481,race_name_桃山ステークス ,0
+482,race_name_桑園特別 ,0
+483,race_name_桑折特別 ,0
+484,race_name_桜島ステークス ,0
+485,race_name_桶狭間ステークス ,0
+487,race_name_横手特別 ,0
+497,race_name_河原町ステークス ,0
+488,race_name_横津岳特別 ,0
+489,race_name_橿原ステークス ,0
+490,race_name_檜山特別 ,0
+491,race_name_欅ステークス ,0
+492,race_name_水無月ステークス ,0
+493,race_name_汐留特別 ,0
+494,race_name_江の島ステークス ,0
+495,race_name_沈丁花賞 ,0
+496,race_name_河北新報杯 ,0
+617,race_name_第54回フィリーズレビュー(G2),0
+625,race_name_第56回七夕賞(G3),0
+619,race_name_第54回小倉大賞典(G3),0
+749,race_name_門松ステークス ,0
+740,race_name_銀嶺ステークス ,0
+741,race_name_銀蹄ステークス ,0
+742,race_name_鋸山特別 ,0
+743,race_name_錦秋ステークス ,0
+744,race_name_鎌倉ステークス ,0
+745,race_name_長万部特別 ,0
+746,race_name_長久手特別 ,0
+747,race_name_長篠ステークス ,0
+748,race_name_門司ステークス ,0
+750,race_name_開成山特別 ,0
+738,race_name_釧路湿原特別 ,0
+751,race_name_開聞岳特別 ,0
+752,race_name_関ケ原ステークス ,0
+753,race_name_関門橋ステークス ,0
+754,race_name_阿寒湖特別 ,0
+755,race_name_阿武隈ステークス ,0
+756,race_name_阿蘇ステークス ,0
+757,race_name_阿賀野川特別 ,0
+758,race_name_陣馬特別 ,0
+759,race_name_陽春ステークス ,0
+739,race_name_鈴鹿特別 ,0
+737,race_name_釜山ステークス ,0
+761,race_name_雪うさぎ賞 ,0
+725,race_name_赤松賞 ,0
+716,race_name_西郷特別 ,0
+717,race_name_調布特別 ,0
+718,race_name_豊川特別 ,0
+719,race_name_豊明ステークス ,0
+720,race_name_豊栄特別 ,0
+721,race_name_豊橋特別 ,0
+722,race_name_貴船ステークス ,0
+723,race_name_賢島特別 ,0
+724,race_name_赤富士ステークス ,0
+726,race_name_赤穂特別 ,0
+736,race_name_金蹄ステークス ,0
+727,race_name_越後ステークス ,0
+728,race_name_蹴上特別 ,0
+729,race_name_遊楽部特別 ,0
+730,race_name_道頓堀ステークス ,0
+731,race_name_郡山特別 ,0
+732,race_name_都井岬特別 ,0
+733,race_name_野島崎特別 ,0
+734,race_name_野路菊ステークス ,0
+735,race_name_金山特別 ,0
+760,race_name_雅ステークス ,0
+762,race_name_雲雀ステークス ,0
+620,race_name_第55回TV西日本北九州記念(G3),0
+797,race_name_麒麟山特別 ,0
+788,race_name_鳴海特別 ,0
+789,race_name_鳴門ステークス ,0
+790,race_name_鴨川特別 ,0
+791,race_name_鶴ヶ城特別 ,0
+792,race_name_鶴見特別 ,0
+793,race_name_鷹ケ峰特別 ,0
+794,race_name_鷹取特別 ,0
+795,race_name_鷹巣山特別 ,0
+796,race_name_鹿野山特別 ,0
+798,race_name_麦秋ステークス ,0
+786,race_name_鳥栖特別 ,0
+799,race_name_黄菊賞 ,0
+800,race_name_黒竹賞 ,0
+17,騎手_勝浦正樹,0
+803,weather_小雨,0
+804,weather_小雪,0
+16,騎手_加藤祥太,0
+15,騎手_内田博幸,0
+808,weather_雪,0
+12,騎手_丸山元気,0
+787,race_name_鳳雛ステークス(L),0
+785,race_name_鳥屋野特別 ,0
+763,race_name_霜月ステークス ,0
+773,race_name_飯盛山特別 ,0
+764,race_name_青嵐賞 ,0
+765,race_name_青梅特別 ,0
+766,race_name_青竜ステークス ,0
+767,race_name_鞍馬ステークス ,0
+768,race_name_韓国馬事会杯 ,0
+769,race_name_響灘特別 ,0
+770,race_name_頌春賞 ,0
+771,race_name_飛騨ステークス ,0
+772,race_name_飯坂温泉特別 ,0
+774,race_name_飯豊特別 ,0
+784,race_name_鳥取特別 ,0
+775,race_name_館山特別 ,0
+776,race_name_香取特別 ,0
+777,race_name_駒ケ岳特別 ,0
+778,race_name_駒場特別 ,0
+779,race_name_高尾特別 ,0
+780,race_name_高湯温泉特別 ,0
+781,race_name_高瀬川ステークス ,0
+782,race_name_高田城特別 ,0
+783,race_name_高砂特別 ,0
+715,race_name_西部日刊スポーツ杯 ,0
+714,race_name_西部スポニチ賞 ,0
+713,race_name_西脇特別 ,0
+654,race_name_第70回安田記念(G1),0
+645,race_name_第68回クイーンステークス(G3),0
+646,race_name_第68回日経賞(G2),0
+647,race_name_第68回神戸新聞杯(G2),0
+648,race_name_第68回阪神大賞典(G2),0
+649,race_name_第69回フジTVスプリングS(G2),0
+650,race_name_第69回ラジオNIKKEI賞(G3),0
+651,race_name_第69回日刊スポ賞中山金杯(G3),0
+652,race_name_第6回サウジアラビアRC(G3),0
+653,race_name_第70回ダイヤモンドS(G3),0
+655,race_name_第70回東京新聞杯(G3),0
+643,race_name_第65回有馬記念(G1),0
+656,race_name_第71回チャレンジカップ(G3),0
+657,race_name_第71回毎日王冠(G2),0
+658,race_name_第73回鳴尾記念(G3),0
+659,race_name_第7回ラジオN杯京都2歳S(G3),0
+660,race_name_第80回皐月賞(G1),0
+661,race_name_第81回優駿牝馬(G1),0
+662,race_name_第87回東京優駿(G1),0
+663,race_name_第94回中山記念(G2),0
+664,race_name_第9回アルテミスステークス(G3),0
+644,race_name_第68回アイルランド府中牝馬(G2),0
+642,race_name_第65回京阪杯(G3),0
+712,race_name_西湖特別 ,0
+630,race_name_第56回札幌記念(G2),0
+621,race_name_第55回サンスポ賞フローラS(G2),0
+622,race_name_第55回デイリー杯クイーンC(G3),0
+623,race_name_第55回札幌2歳ステークス(G3),0
+624,race_name_第56回CBC賞(G3),0
+427,race_name_忘れな草賞(L),0
+626,race_name_第56回中日新聞杯(G3),0
+627,race_name_第56回京王杯2歳ステークス(G2),0
+628,race_name_第56回函館記念(G3),0
+629,race_name_第56回小倉記念(G3),0
+631,race_name_第56回福島記念(G3),0
+641,race_name_第65回京王杯スプリングC(G2),0
+632,race_name_第56回金鯱賞(G2),0
+633,race_name_第57回報知弥生ディープ記念(G2),0
+634,race_name_第57回愛知杯(G3),0
+635,race_name_第58回アルゼンチン共和国杯(G2),0
+636,race_name_第5回紫苑ステークス(G3),0
+637,race_name_第60回京成杯(G3),0
+638,race_name_第61回宝塚記念(G1),0
+639,race_name_第64回大阪杯(G1),0
+640,race_name_第64回阪急杯(G3),0
+665,race_name_筑紫特別 ,0
+666,race_name_箱根特別 ,0
+667,race_name_節分ステークス ,0
+701,race_name_菅名岳特別 ,0
+692,race_name_苗場特別 ,0
+693,race_name_若竹賞 ,0
+694,race_name_若葉ステークス(L),0
+695,race_name_若駒ステークス(L),0
+696,race_name_苫小牧特別 ,0
+697,race_name_英彦山特別 ,0
+698,race_name_茨城新聞杯 ,0
+699,race_name_茶臼山高原特別 ,0
+700,race_name_荒川峡特別 ,0
+702,race_name_萌黄賞 ,0
+668,race_name_米沢特別 ,0
+703,race_name_萬代橋特別 ,0
+704,race_name_葉山特別 ,0
+705,race_name_葉牡丹賞 ,0
+706,race_name_薩摩ステークス ,0
+707,race_name_薫風ステークス ,0
+708,race_name_藤森ステークス ,0
+709,race_name_藻岩山特別 ,0
+710,race_name_西日本スポーツ杯 ,0
+711,race_name_西海賞 ,0
+691,race_name_花見山特別 ,0
+690,race_name_花のみちステークス ,0
+689,race_name_芦屋川特別 ,0
+688,race_name_芦ノ湖特別 ,0
+669,race_name_精進湖特別 ,0
+670,race_name_納屋橋ステークス ,0
+671,race_name_紫川特別 ,0
+672,race_name_紫菊賞 ,0
+673,race_name_紫野特別 ,0
+674,race_name_総武ステークス ,0
+675,race_name_緑風ステークス ,0
+676,race_name_織姫賞 ,0
+677,race_name_羅生門ステークス ,0
+678,race_name_羊ヶ丘特別 ,0
+679,race_name_美浦ステークス ,0
+680,race_name_能勢特別 ,0
+681,race_name_脊振山特別 ,0
+682,race_name_臥牛山特別 ,0
+683,race_name_與杼特別 ,0
+684,race_name_舞子特別 ,0
+685,race_name_舞浜特別 ,0
+686,race_name_舞鶴ステークス ,0
+687,race_name_芙蓉ステークス ,0
+428,race_name_恵山特別 ,0
+423,race_name_彦星賞 ,0
+426,race_name_心斎橋ステークス ,0
+183,race_name_タンザナイトS ,0
+161,race_name_カーネーションカップ ,0
+162,race_name_キタサンブラックM ,0
+163,race_name_キャピタルステークス(L),0
+164,race_name_ギャラクシーS ,0
+165,race_name_クロッカスステークス(L),0
+166,race_name_クローバー賞 ,0
+167,race_name_グッドラックハンデ ,0
+168,race_name_グリーンチャンネルC(L),0
+169,race_name_グレイトフルS ,0
+170,race_name_ケフェウスステークス ,0
+171,race_name_コスモス賞 ,0
+172,race_name_コーラルステークス(L),0
+173,race_name_サンシャインS ,0
+174,race_name_シドニートロフィー ,0
+175,race_name_シャングリラ賞 ,0
+176,race_name_ジャニュアリーS ,0
+177,race_name_ジュライステークス(L),0
+178,race_name_ジューンステークス ,0
+179,race_name_スイートピーS(L),0
+180,race_name_スピカステークス ,0
+181,race_name_スレイプニルS ,0
+160,race_name_カノープスステークス ,0
+159,race_name_カトレアステークス ,0
+158,race_name_オーロカップ(L),0
+146,race_name_ウェルカムステークス ,0
+137,race_name_わらび賞 ,0
+138,race_name_アイビーステークス(L),0
+139,race_name_アクアラインS ,0
+140,race_name_アハルテケステークス ,0
+141,race_name_アメジストステークス ,0
+142,race_name_アルデバランS ,0
+143,race_name_アレキサンドライトS ,0
+144,race_name_アンドロメダS(L),0
+145,race_name_インディアトロフィー ,0
+147,race_name_エニフステークス(L),0
+157,race_name_オータムリーフS ,0
+148,race_name_エリカ賞 ,0
+149,race_name_エールステークス ,0
+150,race_name_オアシスステークス(L),0
+151,race_name_オキザリス賞 ,0
+152,race_name_オクトーバーS(L),0
+153,race_name_オホーツクステークス ,0
+154,race_name_オリエンタル賞 ,0
+155,race_name_オリオンステークス ,0
+156,race_name_オークランドRCT ,0
+182,race_name_セントポーリア賞 ,0
+184,race_name_ダリア賞 ,0
+425,race_name_御影ステークス ,0
+185,race_name_チバテレ杯 ,0
+210,race_name_ブラジルカップ(L),0
+211,race_name_ブラッドストーンS ,0
+212,race_name_ブリリアントS(L),0
+213,race_name_プラタナス賞 ,0
+214,race_name_プリンシパルS(L),0
+215,race_name_ベゴニア賞 ,0
+216,race_name_ベストウィッシュC ,0
+217,race_name_ベテルギウスS(L),0
+218,race_name_ホンコンJCT ,0
+219,race_name_ポプラ特別 ,0
+220,race_name_ポラリスステークス ,0
+221,race_name_ポルックスステークス ,0
+222,race_name_ポートアイランドS(L),0
+223,race_name_マカオJCトロフィー ,0
+224,race_name_マリーンステークス ,0
+225,race_name_マーガレットS(L),0
+226,race_name_ミモザ賞 ,0
+227,race_name_ムーンライトハンデ ,0
+228,race_name_メイステークス ,0
+229,race_name_メトロポリタンS(L),0
+230,race_name_ヤマボウシ賞 ,0
+209,race_name_フローラルウォーク賞 ,0
+208,race_name_フルーツラインカップ ,0
+207,race_name_フリージア賞 ,0
+195,race_name_ニセコ特別 ,0
+186,race_name_テレQ杯 ,0
+187,race_name_テレビユー福島賞 ,0
+188,race_name_テレビ山梨杯 ,0
+189,race_name_テレビ静岡賞 ,0
+190,race_name_テレ玉杯 ,0
+191,race_name_ディセンバーS(L),0
+192,race_name_デイジー賞 ,0
+193,race_name_トリトンステークス ,0
+194,race_name_ドンカスターカップ ,0
+196,race_name_ネモフィラ賞 ,0
+206,race_name_フリーウェイS ,0
+197,race_name_ノベンバーステークス ,0
+198,race_name_バレンタインS ,0
+199,race_name_バーデンバーデンC ,0
+200,race_name_パラダイスステークス(L),0
+201,race_name_ヒヤシンスステークス(L),0
+202,race_name_フィリピントロフィー ,0
+203,race_name_フェアウェルS ,0
+204,race_name_フェニックス賞 ,0
+205,race_name_フォーチュンカップ ,0
+136,race_name_りんくうステークス ,0
+135,race_name_ゆりかもめ賞 ,0
+134,race_name_やまびこステークス ,0
+133,race_name_もちの木賞 ,0
+59,騎手_秋山稔樹,0
+60,騎手_竹之下智,0
+61,騎手_荻野極,0
+62,騎手_荻野琢真,0
+64,騎手_落合玄太,0
+65,騎手_藤井勘一,0
+67,騎手_藤岡康太,0
+68,騎手_藤田菜七,0
+69,騎手_蛯名正義,0
+70,騎手_西村淳也,0
+71,騎手_酒井学,0
+72,騎手_阿部龍,0
+73,騎手_黛弘人,0
+74,騎手_Ｍ．デム,0
+27,騎手_城戸義政,0
+25,騎手_国分恭介,0
+78,race_name_2020ファイナルS ,0
+79,race_name_2歳1勝クラス,0
+24,騎手_国分優作,0
+81,race_name_2歳未勝利,0
+22,騎手_和田竜二,0
+58,騎手_福永祐一,0
+57,騎手_石川裕紀,0
+56,騎手_石川倭,0
+42,騎手_柴田善臣,0
+33,騎手_嶋田純次,0
+34,騎手_川島信二,0
+35,騎手_戸崎圭太,0
+36,騎手_服部茂史,0
+37,騎手_木幡育也,0
+38,騎手_杉原誠人,0
+39,騎手_村田一誠,0
+40,騎手_松田大作,0
+41,騎手_柴山雄一,0
+43,騎手_桑村真明,0
+55,騎手_的場勇人,0
+44,騎手_横山典弘,0
+30,騎手_山本咲希,0
+48,騎手_水口優也,0
+49,騎手_江田照男,0
+28,騎手_大庭和弥,0
+51,騎手_浜中俊,0
+52,騎手_田中勝春,0
+53,騎手_田辺裕信,0
+54,騎手_畑端省吾,0
+84,race_name_3歳以上2勝クラス,0
+85,race_name_3歳新馬,0
+20,騎手_古川吉洋,0
+122,race_name_すばるステークス(L),0
+113,race_name_くすのき賞 ,0
+114,race_name_こうやまき賞 ,0
+115,race_name_こぶし賞 ,0
+116,race_name_さくらんぼ特別 ,0
+117,race_name_さざんか賞 ,0
+118,race_name_さわらび賞 ,0
+119,race_name_しゃくなげ賞 ,0
+120,race_name_しらかばステークス ,0
+121,race_name_すずらん賞 ,0
+123,race_name_すみれステークス(L),0
+111,race_name_かもめ島特別 ,0
+124,race_name_つわぶき賞 ,0
+125,race_name_ながつきステークス ,0
+126,race_name_なでしこ賞 ,0
+127,race_name_なにわステークス ,0
+128,race_name_はこべら賞 ,0
+129,race_name_ひまわり賞 ,0
+130,race_name_ひめさゆり賞 ,0
+131,race_name_みちのくステークス ,0
+132,race_name_むらさき賞 ,0
+112,race_name_ききょうステークス ,0
+110,race_name_かささぎ賞 ,0
+19,騎手_原優介,0
+98,race_name_RKB賞 ,0
+89,race_name_BSN賞(L),0
+90,race_name_BSイレブン賞 ,0
+91,race_name_HBC賞 ,0
+92,race_name_HTB杯 ,0
+93,race_name_HTB賞 ,0
+94,race_name_JRAアニバーサリー ,0
+95,race_name_Mテイエムオペラオー ,0
+96,race_name_Mブエナビスタ ,0
+97,race_name_NST賞 ,0
+99,race_name_STV杯 ,0
+109,race_name_いわき特別 ,0
+100,race_name_STV賞 ,0
+101,race_name_TVh杯 ,0
+102,race_name_TVh賞 ,0
+103,race_name_UHB杯 ,0
+104,race_name_UHB賞 ,0
+105,race_name_tvk賞 ,0
+106,race_name_あざみ賞 ,0
+107,race_name_あすなろ賞 ,0
+108,race_name_あずさ賞 ,0
+231,race_name_ヤングJSFR阪神2 ,0
+232,race_name_ユートピアステークス ,0
+233,race_name_ライラック賞 ,0
+330,race_name_名鉄杯 ,0
+356,race_name_大和ステークス ,0
+357,race_name_大寒桜賞 ,0
+358,race_name_大島特別 ,0
+359,race_name_大府特別 ,0
+360,race_name_大日岳特別 ,0
+361,race_name_大沼ステークス(L),0
+362,race_name_大津特別 ,0
+363,race_name_大牟田特別 ,0
+364,race_name_大通公園特別 ,0
+365,race_name_大阪スポーツ杯 ,0
+366,race_name_大阪ーハンブルクC ,0
+367,race_name_大須特別 ,0
+368,race_name_天の川賞 ,0
+369,race_name_天ケ瀬特別 ,0
+370,race_name_天保山ステークス ,0
+371,race_name_天満橋ステークス ,0
+372,race_name_天王寺特別 ,0
+373,race_name_天王山ステークス ,0
+374,race_name_天草特別 ,0
+375,race_name_太宰府特別 ,0
+376,race_name_太秦ステークス ,0
+355,race_name_大倉山特別 ,0
+354,race_name_多摩川ステークス ,0
+353,race_name_夙川特別 ,0
+341,race_name_国立特別 ,0
+332,race_name_呉竹賞 ,0
+333,race_name_周防灘特別 ,0
+334,race_name_呼子特別 ,0
+335,race_name_和布刈特別 ,0
+336,race_name_唐戸特別 ,0
+337,race_name_喜多方特別 ,0
+338,race_name_噴火湾特別 ,0
+339,race_name_四国新聞杯 ,0
+340,race_name_国分寺特別 ,0
+342,race_name_土湯温泉特別 ,0
+352,race_name_外房ステークス ,0
+343,race_name_垂水ステークス ,0
+344,race_name_報知杯中京2歳S ,0
+345,race_name_報知杯大雪ハンデ ,0
+346,race_name_堺ステークス ,0
+347,race_name_壇之浦特別 ,0
+348,race_name_壬生特別 ,0
+349,race_name_夏至ステークス ,0
+350,race_name_夕刊フジ杯オパールS(L),0
+351,race_name_夕月特別 ,0
+377,race_name_奥の細道特別 ,0
+378,race_name_奥多摩ステークス ,0
+379,race_name_奥尻特別 ,0
+414,race_name_川俣特別 ,0
+405,race_name_山城ステークス ,0
+406,race_name_山桜賞 ,0
+18,騎手_北村宏司,0
+408,race_name_山陽特別 ,0
+409,race_name_岡崎特別 ,0
+410,race_name_岩室温泉特別 ,0
+411,race_name_岩船特別 ,0
+412,race_name_岸和田ステークス ,0
+413,race_name_巌流島特別 ,0
+415,race_name_川西特別 ,0
+403,race_name_尾瀬特別 ,0
+416,race_name_巴賞 ,0
+417,race_name_市原特別 ,0
+418,race_name_帆柱山特別 ,0
+419,race_name_師走ステークス(L),0
+420,race_name_常総ステークス ,0
+421,race_name_平城京ステークス ,0
+422,race_name_府中特別 ,0
+32,騎手_岩田康誠,0
+424,race_name_御室特別 ,0
+404,race_name_山中湖特別 ,0
+402,race_name_尾張特別 ,0
+380,race_name_奥羽ステークス ,0
+390,race_name_富嶽賞 ,0
+381,race_name_妙見山特別 ,0
+382,race_name_妙高特別 ,0
+383,race_name_姫路ステークス ,0
+384,race_name_安房特別 ,0
+385,race_name_安芸ステークス ,0
+386,race_name_安達太良ステークス ,0
+387,race_name_宝満山特別 ,0
+388,race_name_室町ステークス ,0
+389,race_name_宮崎特別 ,0
+391,race_name_富良野特別 ,0
+401,race_name_尼崎ステークス ,0
+392,race_name_富里特別 ,0
+393,race_name_寒椿賞 ,0
+394,race_name_寿ステークス ,0
+395,race_name_小倉城特別 ,0
+396,race_name_小倉日経オープン ,0
+397,race_name_小樽特別 ,0
+398,race_name_小牧特別 ,0
+399,race_name_小郡特別 ,0
+400,race_name_小金井特別 ,0
+331,race_name_吾妻小富士ステークス ,0
+329,race_name_名古屋日刊スポーツ杯 ,0
+234,race_name_ラジオ日本賞 ,0
+328,race_name_名古屋城ステークス ,0
+259,race_name_丹頂ステークス ,0
+260,race_name_乙訓特別 ,0
+261,race_name_九十九里特別 ,0
+262,race_name_九州スポーツ杯 ,0
+263,race_name_二本松特別 ,0
+264,race_name_五条坂特別 ,0
+265,race_name_五泉特別 ,0
+266,race_name_五稜郭ステークス ,0
+267,race_name_五色沼特別 ,0
+268,race_name_京橋特別 ,0
+269,race_name_京葉ステークス(L),0
+270,race_name_仁川ステークス(L),0
+271,race_name_仲冬ステークス ,0
+272,race_name_伊丹ステークス ,0
+273,race_name_伊勢佐木特別 ,0
+274,race_name_伊勢特別 ,0
+275,race_name_伊良湖特別 ,0
+276,race_name_伊達特別 ,0
+277,race_name_伏竜ステークス ,0
+278,race_name_会津特別 ,0
+279,race_name_但馬ステークス ,0
+258,race_name_丹沢ステークス ,0
+257,race_name_中京日経賞 ,0
+256,race_name_中京スポーツ杯 ,0
+244,race_name_三田特別 ,0
+235,race_name_ラジオ福島賞 ,0
+236,race_name_ラジオ関西賞仲春特別 ,0
+237,race_name_リボン賞 ,0
+238,race_name_ルスツ特別 ,0
+239,race_name_レインボーステークス ,0
+240,race_name_三宮ステークス ,0
+241,race_name_三春駒特別 ,0
+242,race_name_三河ステークス ,0
+243,race_name_三浦特別 ,0
+245,race_name_三陸特別 ,0
+255,race_name_中京スポニチ賞 ,0
+246,race_name_上総ステークス ,0
+247,race_name_上賀茂ステークス ,0
+248,race_name_上越ステークス ,0
+249,race_name_下北半島特別 ,0
+250,race_name_下総ステークス ,0
+251,race_name_下鴨ステークス ,0
+252,race_name_両国特別 ,0
+253,race_name_両津湾特別 ,0
+254,race_name_中ノ岳特別 ,0
+280,race_name_佐世保ステークス ,0
+281,race_name_信夫山特別 ,0
+282,race_name_信越ステークス(L),0
+317,race_name_医王寺特別 ,0
+308,race_name_北九州短距離S ,0
+309,race_name_北大路特別 ,0
+310,race_name_北山ステークス ,0
+311,race_name_北摂特別 ,0
+312,race_name_北斗特別 ,0
+313,race_name_北海ハンデキャップ ,0
+314,race_name_北総ステークス ,0
+315,race_name_北辰特別 ,0
+316,race_name_北陸ステークス ,0
+318,race_name_十日町特別 ,0
+306,race_name_利根川特別 ,0
+319,race_name_千歳特別 ,0
+320,race_name_千種川特別 ,0
+321,race_name_千葉ステークス ,0
+322,race_name_南武特別 ,0
+323,race_name_南相馬特別 ,0
+324,race_name_博多ステークス ,0
+325,race_name_印西特別 ,0
+326,race_name_古町ステークス ,0
+327,race_name_合馬特別 ,0
+307,race_name_加古川特別 ,0
+305,race_name_利尻特別 ,0
+283,race_name_元町ステークス ,0
+293,race_name_出石特別 ,0
+284,race_name_八ヶ岳特別 ,0
+285,race_name_八丈島特別 ,0
+286,race_name_八代特別 ,0
+287,race_name_八幡特別 ,0
+288,race_name_八海山ステークス ,0
+289,race_name_八王子特別 ,0
+290,race_name_八雲特別 ,0
+291,race_name_六社ステークス ,0
+292,race_name_内房ステークス ,0
+294,race_name_函館日刊スポーツ杯 ,0
+304,race_name_別府特別 ,0
+295,race_name_函館道新スポーツ杯 ,0
+296,race_name_刈谷特別 ,0
+297,race_name_初凪賞 ,0
+298,race_name_初富士ステークス ,0
+299,race_name_初春ステークス ,0
+300,race_name_初茜賞 ,0
+301,race_name_初霞賞 ,0
+302,race_name_初音ステークス ,0
+303,race_name_初風ステークス ,0
+407,race_name_山藤賞 ,0
